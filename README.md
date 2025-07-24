@@ -2,8 +2,6 @@
 
 This project is a sleek and user-friendly stopwatch application built with React and Tailwind CSS. It was created as the second task for the SkillCraft Technology web development internship. The app provides accurate time measurement with functionalities for starting, pausing, resetting, and recording lap times.
 
-![Project Screenshot](https://placehold.co/800x450/111827/E5E9F0?text=Project+Screenshot)
-*Replace the URL above with a link to a screenshot of your finished project.*
 
 ---
 
@@ -43,11 +41,11 @@ Make sure you have Node.js and npm (or yarn) installed on your machine.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/your_username/your_repository_name.git](https://github.com/your_username/your_repository_name.git)
+    git clone [https://github.com/deepnav4/SCT_WD_2.git](https://github.com/deepnav4/SCT_WD_2.git)
     ```
 2.  Navigate to the project directory
     ```sh
-    cd your_repository_name
+    cd 
     ```
 3.  Install NPM packages
     ```sh
@@ -57,11 +55,11 @@ Make sure you have Node.js and npm (or yarn) installed on your machine.
     ```sh
     npm start
     ```
-    The application will be available at `http://localhost:3000`.
+    The application will be available at `http://localhost:5173`.
 
 ---
 
 ## 👤 Author
 
-* **Name:** [Your Name]
+* **Name:** Navdeep Singh
 * **Internship:** Web Development Intern at SkillCraft Technology
